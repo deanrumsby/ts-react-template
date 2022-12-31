@@ -9,3 +9,5 @@ Uses:
 - ESLint: with AirBnB's very popular ruleset, to enforce a consistent code style.
 
 - Vitest: A testing library that shares a similar API to Jest, but is compatible with Vite.
+
+- Storybook: A UI development tool for component driven apps, allows us to isolate and test component behaviour through the use of stories.
